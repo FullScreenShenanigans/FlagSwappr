@@ -1,5 +1,7 @@
 <!-- {{Top}} -->
 # flagswappr
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/FullScreenShenanigans/FlagSwappr.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/FullScreenShenanigans/flagswappr.svg?branch=master)](https://travis-ci.org/FullScreenShenanigans/flagswappr)
 [![NPM version](https://badge.fury.io/js/flagswappr.svg)](http://badge.fury.io/js/flagswappr)
 
